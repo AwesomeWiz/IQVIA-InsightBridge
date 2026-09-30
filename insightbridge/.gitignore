@@ -1,0 +1,5 @@
+backend/__pycache__/
+backend/saas_bi.db
+frontend/node_modules/
+frontend/dist/
+.env
